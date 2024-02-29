@@ -56,7 +56,7 @@ export default function Home() {
         </div>
         <p className="mt-4 text-lg font-normal  text-neutral-300 max-w-lg text-center mx-auto px-4">
         Tailored solutions crafted specifically for your business needs. 
-        Our team of creative professionals is eager to assist you in grow your business.
+        Our team of creative professionals is eager to assist you in growing your business.
         </p>
 
         <Link
