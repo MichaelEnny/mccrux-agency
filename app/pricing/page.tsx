@@ -126,7 +126,7 @@ const Pricing = () => {
                 <div className={plan.button}>
                   {index === 0 && (
                     <Link
-                      href="https://buy.stripe.com/cN202p9gM4Ndf3WfYZ"
+                      href="https://buy.stripe.com/14kcPbdx26Vl6xqfYY"
                       className="rounded-3xl my-4  py-2 text-white w-full mx-auto items-center flex justify-center bg-gradient-to-r from-emerald-500 to-blue-300"
                     >
                       Buy Now
@@ -135,7 +135,7 @@ const Pricing = () => {
                     {index === 1 && (
                       <Link
                         
-                        href="https://buy.stripe.com/14kcPbdx26Vl6xqfYY"  
+                        href="https://buy.stripe.com/cN202p9gM4Ndf3WfYZ"  
                         className="rounded-3xl my-4  py-2 text-white w-full mx-auto items-center flex justify-center bg-gradient-to-r from-emerald-500 to-blue-300" 
                       >
                         Buy Now
